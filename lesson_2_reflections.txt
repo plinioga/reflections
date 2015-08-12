@@ -5,3 +5,7 @@ Git creates metadata files in hidden folder .git. To be able to star versioning 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It keeps track of the files added using git add command while the working directory just contains all the files in the repository, wether they are tracked or untracked
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By comparing the changes in the staging area with the current commit?

@@ -13,3 +13,7 @@ By comparing the changes in the staging area with the current commit
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to test some changes and do not want to modify the master branch. They allow to create other repositories to which make commits without affecting the original one
+
+How do the diagrams help you visualize the branch structure?
+
+Showing the branching points and the commits that are reachable and if there are unreachable commits

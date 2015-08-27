@@ -6,3 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 To avoid pushing changes which are not fully tested yet.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones made directly in the GitHub servers. Clones can be made locally or from a GitHub repository. Branches are made locally and can later be merged/pushed to GitHub. Forks are used when you want to make changes to an existing repository without altering the original when you push your local changes. Clones are used when you want to keep things in synch with the origin repository you cloned (by pulling/pushing cahnges). Branches are used when you want to make changes without affecting the master branch (experimentation). You can later on merge branches into master if you want.  

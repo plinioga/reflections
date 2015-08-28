@@ -12,6 +12,8 @@ Forks are clones made directly in the GitHub servers. Clones can be made locally
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-To check for differences, know when you are out-sync, ahead or behind and do merging if necessary before pushing.  
+To check for differences, know when you are out-sync, ahead or behind and do merging when necessary, before pushing.  
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+It would be easier to share code, but would be harder to keep track of changes and revert unwanted changes to a previous version.

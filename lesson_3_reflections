@@ -17,3 +17,7 @@ To check for differences, know when you are out-sync, ahead or behind and do mer
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be easier to share code, but would be harder to keep track of changes and revert unwanted changes to a previous version.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to test something and get other people's feedback before actually adding that (merging) into master. Working directly into master is simpler, but it does not allow for collaboration and agreement between collaborators before accepting the introduced changes.
